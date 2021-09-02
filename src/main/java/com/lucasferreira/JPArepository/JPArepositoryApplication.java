@@ -1,4 +1,4 @@
-package com.lucasferreira.jparepository;
+package com.lucasferreira.JPArepository;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

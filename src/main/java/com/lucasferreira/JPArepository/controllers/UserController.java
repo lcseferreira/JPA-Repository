@@ -1,7 +1,7 @@
-package com.lucasferreira.jparepository.controllers;
+package com.lucasferreira.JPArepository.controllers;
 
-import com.lucasferreira.jparepository.entities.User;
-import com.lucasferreira.jparepository.repositories.UserRepository;
+import com.lucasferreira.JPArepository.entities.User;
+import com.lucasferreira.JPArepository.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

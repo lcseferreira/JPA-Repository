@@ -1,4 +1,4 @@
-package com.lucasferreira.jparepository.entities;
+package com.lucasferreira.JPArepository.entities;
 
 import javax.persistence.*;
 
