@@ -10,4 +10,6 @@ public interface UserRepository extends JpaRepository<User, Long> {
     Page<User> findByNameContainingIgnoreCase(String name, Pageable pageable);
 
     Page<User> findBySalaryBetween(Double minSalary, Double maxSalary, Pageable pageable);
+
+    Page<User> findById(long id, Pageable pageable);
 }
