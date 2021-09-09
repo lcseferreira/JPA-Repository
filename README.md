@@ -1,15 +1,4 @@
-<style> 
-    * {
-    font-family: "Trebuchet MS", sans serif;
-    }
-    h1, h2 {
-        text-align: center;
-    }
-    a {
-        text-decoration: none;
-    }
-</style>
-<h1>
+<h1 align="center">
     Interface JPA Repository
 </h1>
 <h3 align="center">
